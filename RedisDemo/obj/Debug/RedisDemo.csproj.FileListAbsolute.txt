@@ -1,0 +1,11 @@
+D:\Demo\Redis\RedisDemo\RedisDemo\bin\Debug\RedisDemo.exe.config
+D:\Demo\Redis\RedisDemo\RedisDemo\bin\Debug\RedisDemo.exe
+D:\Demo\Redis\RedisDemo\RedisDemo\bin\Debug\RedisDemo.pdb
+D:\Demo\Redis\RedisDemo\RedisDemo\obj\Debug\RedisDemo.csprojResolveAssemblyReference.cache
+D:\Demo\Redis\RedisDemo\RedisDemo\obj\Debug\RedisDemo.exe
+D:\Demo\Redis\RedisDemo\RedisDemo\obj\Debug\RedisDemo.pdb
+D:\Demo\Redis\RedisDemo\RedisDemo\bin\Debug\StackExchange.Redis.dll
+D:\Demo\Redis\RedisDemo\RedisDemo\bin\Debug\StackExchange.Redis.pdb
+D:\Demo\Redis\RedisDemo\RedisDemo\bin\Debug\StackExchange.Redis.xml
+D:\Demo\Redis\RedisDemo\RedisDemo\bin\Debug\Newtonsoft.Json.dll
+D:\Demo\Redis\RedisDemo\RedisDemo\bin\Debug\Newtonsoft.Json.xml
